@@ -3,3 +3,4 @@ name = "opendocswork-mcp"
 version = "0.1.0"
 edition = "2021"
 description = "Rust-native MCP server for Office document processing (Excel, Word, PowerPoint). Sub-millisecond, local-first, open source."
+# clarify the control flow
