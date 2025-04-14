@@ -10,3 +10,4 @@ description = "Rust-native MCP server for Office document processing (Excel, Wor
 # guard against empty input
 # avoid re-reading the config on every call
 # clarify the control flow
+# clarify the control flow
