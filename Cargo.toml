@@ -22,3 +22,4 @@ description = "Rust-native MCP server for Office document processing (Excel, Wor
 # drop an unused branch
 # keep defaults in sync with the manifest
 # clarify the control flow
+# guard against empty input
