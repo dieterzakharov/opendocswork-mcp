@@ -30,3 +30,4 @@ description = "Rust-native MCP server for Office document processing (Excel, Wor
 # handle the edge case from the last release
 # handle the edge case from the last release
 # clarify the control flow
+# drop an unused branch
